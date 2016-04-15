@@ -1,0 +1,18 @@
+## Interface: 60100
+## Title: |cff1784d1ElvUI |r|cfffb4f4fSkullflower|r
+## Version: 2.24
+## Author: Skullflower
+## Notes: |cfffb4f4fSkullflower's |cff1784d1ElvUI|r edit.
+## URL: http://tukui.org/ 
+## RequiredDeps: ElvUI
+
+core\install.lua
+core\math.lua
+core\fonts.lua
+layout\layout.lua
+media\load_media.xml
+modules\load_modules.xml
+ 
+ 
+## X-Tukui-ProjectID: 145
+## X-Tukui-ProjectFolders: ElvUI_Skullflower
